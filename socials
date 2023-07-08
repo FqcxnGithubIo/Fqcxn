@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Partners</title>
+  <meta name="description" content="Fqcxn's Portfolio">
+  <meta name="theme-color" content="#ff0000">
+  <link rel="icon" type="image/png" sizes="300x250" href="fqcxnpfp.png">
+	<link href="https://fonts.googleapis.com/css?family=Aldrich&display=swap" rel="stylesheet">
+	<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+	<div class="page">
+		<div class="container">
+			<h1>Social Media Links:</h1>
+      <div class="links">
+        <a>•</a><a href="https://discord.gg/3Awjwwe59v">Discord Server</a>
+        <br>
+        <a>•</a><a href="https://youtube.com/@fqcxn">YouTube</a>
+        <br>
+        <a>•</a><a href="https://twitter.com/FqcxnOfficial">Twitter</a>
+        <br>
+        <a>•</a><a href="https://m.twitch.tv/fqcxn">Twitch</a>
+        </div>
+		</div>
+	</div
+	<script src="script.js"></script>
+</body>
+
+</html>
